@@ -1,2 +1,2 @@
 # my-python-project
-Python project
+Python project Folder
